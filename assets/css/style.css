@@ -1,0 +1,56 @@
+h1 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 40px;
+}
+
+h2 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 23px;
+    margin-bottom: 0;
+}
+
+button {
+    width: 50px;
+    height: 25;
+    text-align: center;
+    font-size: 10px;
+}
+
+.characters {
+    float: left;
+    width: 140px;
+    height: 110px;
+    background-color: white;
+    border-color: rgb(56, 173, 56);
+    border-style: solid;
+    overflow: auto;
+}
+
+.char-pic {
+    height: 65px;
+    width: 100px;
+    padding: 0;
+    text-align: center;
+    margin: auto;
+}
+
+.name {
+    text-align: center;
+    margin: auto;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 12px;
+}
+
+.health {
+    text-align: center;
+    margin: auto;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 12px;
+}
+
+.characters .row {
+    text-align: center;
+    margin: auto;
+
+
+}
